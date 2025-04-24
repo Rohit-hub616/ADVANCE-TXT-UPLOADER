@@ -1,18 +1,18 @@
 <h1 align="center">
-  🇮🇳 ᴛᴜsʜᴀʀ ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
+  🇮🇳 JARVIS TXT UPLOADER 🇮🇳
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](https://t.me/Tushar0125)
+🥳 Credit Goes To [Jarvis](https://t.me/Pr1ppx)
 
   
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
-- **`/tushar`**:  📁 upload txt file.
+- **`/jarvis`**:  📁 upload txt file.
 - **`/stop`**: 🛑 stop ongoing process.
 - **`/restart`**: 🔮 restart the bot.
 - **`/cookies`**: 🍪 upload cookies file.
